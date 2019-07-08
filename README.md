@@ -37,13 +37,15 @@ Here you can find the video (old):
 - [x] Show cumulative energy usage form all devices.
 - [x] Show energy consumption by last 30 days, month.
 - [x] Show daily cost metrics
-- [] Make it work with HS100
-- [] Record the energy consumption hour by hour (background fetch)
-- [] Show energy consuption by day, bill.
-- [] Find a way to give commands to Siri to turn on/off device (using Siri shortcut)
-- [] Make smart action (like if consuption is lower then specific value turn off, or using GPS and when arrive home turn on the light)
-- [] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
-- [] Add Artificial Intelligence (IA) to detect and send you push notification when some consumption is not right like: leave the refrigerator door open
-- [] Set Goals to save energy
-- [] Implement Haptic Touch
-- [] Make android version
+- [ ] Make it work with HS100
+- [ ] Export the data to Excel (csv)
+- [ ] Record the energy consumption hour by hour (background fetch)
+- [ ] Show energy consuption by day, bill.
+- [ ] Reset Device and turn off the led light
+- [ ] Find a way to give commands to Siri to turn on/off device (using Siri shortcut)
+- [ ] Make smart action (like if consuption is lower then specific value turn off, or using GPS and when arrive home turn on the light)
+- [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
+- [ ] Add Artificial Intelligence (IA) to detect and send you push notification when some consumption is not right like: leave the refrigerator door open
+- [ ] Set Goals to save energy
+- [ ] Implement Haptic Touch
+- [ ] Make android version
