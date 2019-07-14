@@ -7,7 +7,7 @@
 
 Watt is an iOS mobile app developed for the TP-Link's Smart Plugs, that allows you to set cost for each kilowatt(kW) and by doing this you have control of the cost in each device.
 
-With this page of GitHub I hope to develop a small community to report problems with the application and think of solutions.
+With this page of GitHub, I hope to develop a small community to report problems with the application and think of solutions.
 
 # Features
 
@@ -15,6 +15,8 @@ With this page of GitHub I hope to develop a small community to report problems 
 - Historical daily and monthly energy usage charts and Runtime (hours that the device was on).
 - Turn on/off the device
 - Show cumulative energy usage form all devices.
+
+<br/><br/>
 
 | Featured | HS100 | HS110 |
 | --- | :---: | :---: |
@@ -26,7 +28,15 @@ With this page of GitHub I hope to develop a small community to report problems 
 | Cumulative energy usage <br/>form all devices |   | x |
 
 
-
+<br/><br/>
+<p align="center">
+<img alt="Screenshot" src="assets/home.png">
+</p>
+<br/><br/><br/>
+<p align="center">
+<img alt="Screenshot" src="assets/chart.png">
+</p>
+<br/><br/>
 
 # Issues
 
@@ -51,11 +61,13 @@ Here you can find the video (old):
 - [x] Show daily cost metrics
 - [x] Make it work with HS100
 - [ ] Export the data to Excel (csv)
+- [ ] Show more info about each device (Like real time consumption, Voltage, wireless signal)
+- [ ] Show chart gathering all devices and the total cost.
 - [ ] Record the energy consumption hour by hour (background fetch)
 - [ ] Show energy consuption by day, bill.
 - [ ] Reset Device and turn off the led light
-- [ ] Find a way to give commands to Siri to turn on/off device (using Siri shortcut)
-- [ ] Make smart action (like if consuption is lower then specific value turn off, or using GPS and when arrive home turn on the light)
+- [ ] Find a way to give commands to Siri to turn on/off device (maybe using Siri shortcut)
+- [ ] Make smart action (like if consuption is lower then specific value turn off, or using GPS and when arrive home turn on the light or even use weather forcast to make action)
 - [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
 - [ ] Set Goals to save energy
 - [ ] Implement Haptic Touch
