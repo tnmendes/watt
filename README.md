@@ -65,8 +65,11 @@ Here you can find the video (old):
 - [ ] Show chart gathering all devices and the total cost.
 - [ ] Record the energy consumption hour by hour (background fetch)
 - [ ] Show energy consuption by day, bill.
-- [ ] Reset Device and turn off the led light
+- [ ] The option to define peak and off peak times and electricity prices.
+- [ ] The ability to reset the stats for when a different appliance/device is plugged in and I want to start fresh.
+- [ ] Option to turn off the led light.
 - [ ] Find a way to give commands to Siri to turn on/off device (maybe using Siri shortcut)
+- [ ] Create concept "Room" which will aggregate multiple devices.
 - [ ] Make smart action (like if consuption is lower then specific value turn off, or using GPS and when arrive home turn on the light or even use weather forcast to make action)
 - [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
 - [ ] Set Goals to save energy
