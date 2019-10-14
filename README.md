@@ -8,6 +8,9 @@
 > ⚠️ **If you are using mobile browser**: Press the button "View all" to see all the page including the **Roadmap!**
 <br/>
 
+:warning: **If you are using mobile browser**: Press the button "View all" to see all the page including the **Roadmap!**
+<br/>
+
 Watt is an iOS mobile app developed for the TP-Link's Smart Plugs, that allows you to set cost for each kilowatt(kW) and by doing this you have control of the cost in each device.
 
 With this page of GitHub, I hope to develop a small community to report problems with the application and think of solutions.
