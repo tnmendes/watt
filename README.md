@@ -34,7 +34,7 @@ With this page of GitHub, I hope to develop a small community to report problems
 | Cumulative energy usage <br/>form all devices |   | x |
 | Night Mode (turn off the LEDs)| x | x |
 | Erase Runtime statistics | x | x |
-| Erase Consumption statistics | x | x |
+| Erase Consumption statistics |   | x |
 
 
 <br/><br/>
