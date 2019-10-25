@@ -32,6 +32,9 @@ With this page of GitHub, I hope to develop a small community to report problems
 | Daily and monthly cost of the device |   | x |
 | Runtime Chart <br/> Daily & monthly | x | x |
 | Cumulative energy usage <br/>form all devices |   | x |
+| Night Mode (turn off the LEDs)| x | x |
+| Erase Runtime statistics | x | x |
+| Erase Consumption statistics | x | x |
 
 
 <br/><br/>
@@ -66,14 +69,14 @@ Here you can find the video (old):
 - [x] Show energy consumption by last 30 days, month.
 - [x] Show daily cost metrics
 - [x] Make it work with HS100
+- [x] Night Mode (Option to turn off the led light).
+- [x] Show more info about each device (Like real time consumption, Voltage, wireless signal)
+- [x] The ability to reset the stats for when a different appliance/device is plugged in and I want to start fresh.
 - [ ] Export the data to Excel (csv)
-- [ ] Show more info about each device (Like real time consumption, Voltage, wireless signal)
 - [ ] Show chart gathering all devices and the total cost.
 - [ ] Record the energy consumption hour by hour (background fetch)
 - [ ] Show energy consuption by day, bill.
 - [ ] The option to define peak and off peak times and electricity prices.
-- [ ] The ability to reset the stats for when a different appliance/device is plugged in and I want to start fresh.
-- [ ] Option to turn off the led light.
 - [ ] Find a way to give commands to Siri to turn on/off device (maybe using Siri shortcut)
 - [ ] Create concept "Room" which will aggregate multiple devices.
 - [ ] Make smart action (like if consuption is lower then specific value turn off, or using GPS and when arrive home turn on the light or even use weather forcast to make action)
