@@ -25,7 +25,7 @@ With this page of GitHub, I hope to develop a small community to report problems
 <br/><br/>
 
 | Featured | HS100 | HS110 | HS103 | HS105 | HS200 | HS220 |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | Turn On/Off | x | x | x | x | x | x |
 | Get overview each device that are active<br/> in the home screen | x | x | x | x | x | x |
 | Energy consumption Chart <br/> Daily & monthly |  | x |  |  |  |  |
