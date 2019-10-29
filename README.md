@@ -24,17 +24,17 @@ With this page of GitHub, I hope to develop a small community to report problems
 
 <br/><br/>
 
-| Featured | HS100 | HS110 | HS105 | HS200 | HS220 |
+| Featured | HS100 | HS110 | HS103 | HS105 | HS200 | HS220 |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| Turn On/Off | x | x | x | x | x |
-| Get overview each device that are active<br/> in the home screen | x | x | x | x | x |
-| Energy consumption Chart <br/> Daily & monthly |  | x |  |  |  |
-| Daily and monthly cost of the device |   | x |  |  |  |
-| Runtime Chart <br/> Daily & monthly | x | x | x | x | x |
-| Cumulative energy usage <br/>form all devices |   | x |  |  |  |
-| Night Mode (turn off the LEDs)| x | x | x | x | x |
-| Erase Runtime statistics | x | x | x | x | x |
-| Erase Consumption statistics |   | x |  |  |  |
+| Turn On/Off | x | x | x | x | x | x |
+| Get overview each device that are active<br/> in the home screen | x | x | x | x | x | x |
+| Energy consumption Chart <br/> Daily & monthly |  | x |  |  |  |  |
+| Daily and monthly cost of the device |   | x |  |  |  |  |
+| Runtime Chart <br/> Daily & monthly | x | x | x | x | x | x |
+| Cumulative energy usage <br/>form all devices |   | x |  |  |  |  |
+| Night Mode (turn off the LEDs)| x | x | x | x | x | x |
+| Erase Runtime statistics | x | x | x | x | x | x |
+| Erase Consumption statistics |   | x |  |  |  | |
 
 
 <br/><br/>
