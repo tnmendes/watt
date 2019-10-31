@@ -78,8 +78,9 @@ Here you can find the video (old):
 - [ ] Show energy consuption by day, bill.
 - [ ] The option to define peak and off peak times and electricity prices.
 - [ ] Find a way to give commands to Siri to turn on/off device (maybe using Siri shortcut)
+- [ ] Force reboot, turn Off device then On after 30 seconds turn on again (Helpful for devices like wifi routers connected to the smart plug)
 - [ ] Create concept "Room" which will aggregate multiple devices.
-- [ ] Make smart action (like if consuption is lower then specific value turn off, or using GPS and when arrive home turn on the light or even use weather forcast to make action)
+- [ ] Make smart action (like if consuption is lower then specific value turn off(stand-by), or using GPS and when arrive home turn on the light, even use weather forcast to make action, difine amount time before sunset/sunrise action)
 - [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
 - [ ] Set Goals to save energy
 - [ ] Implement Haptic Touch
