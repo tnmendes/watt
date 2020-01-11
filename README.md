@@ -72,6 +72,8 @@ Here you can find the video (old):
 - [x] Night Mode (Option to turn off the led light).
 - [x] Show more info about each device (Like real time consumption, Voltage, wireless signal)
 - [x] The ability to reset the stats for when a different appliance/device is plugged in and I want to start fresh.
+- [ ] Create concept "Room/Spaces" which will aggregate multiple devices.
+- [ ] Add support to TP-Link HS300
 - [ ] Export the data to Excel (csv)
 - [ ] Show chart gathering all devices and the total cost.
 - [ ] Record the energy consumption hour by hour (background fetch)
@@ -79,7 +81,6 @@ Here you can find the video (old):
 - [ ] The option to define peak and off peak times and electricity prices.
 - [ ] Find a way to give commands to Siri to turn on/off device (maybe using Siri shortcut)
 - [ ] Force reboot, turn Off device then On after 30 seconds turn on again (Helpful for devices like wifi routers connected to the smart plug)
-- [ ] Create concept "Room" which will aggregate multiple devices.
 - [ ] Make smart action (like if consuption is lower then specific value turn off(stand-by), or using GPS and when arrive home turn on the light, even use weather forcast to make action, difine amount time before sunset/sunrise action)
 - [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
 - [ ] Set Goals to save energy
