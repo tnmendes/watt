@@ -72,7 +72,7 @@ Here you can find the video (old):
 - [x] Night Mode (Option to turn off the led light).
 - [x] Show more info about each device (Like real time consumption, Voltage, wireless signal)
 - [x] The ability to reset the stats for when a different appliance/device is plugged in and I want to start fresh.
-- [ ] Create concept "Room/Spaces" which will aggregate multiple devices.
+- [x] Create concept "Room/Spaces" which will aggregate multiple devices.
 - [ ] Add support to TP-Link HS300
 - [ ] Export the data to Excel (csv)
 - [ ] Show chart gathering all devices and the total cost.
