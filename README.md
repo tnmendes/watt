@@ -1,4 +1,4 @@
-# Watt for Kasa Smart
+# Watt for Smart Devices
 
 <br/><br/>
 <p align="center">
