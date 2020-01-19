@@ -1,4 +1,5 @@
 # Watt for Smart Devices
+Complementary app to the universe of Kasa Smart (TP-Link)
 
 <br/><br/>
 <p align="center">
