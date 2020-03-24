@@ -28,6 +28,7 @@ With this page of GitHub, I hope to develop a small community to report problems
 
 | Featured | HS100, HS103, HS105, HS200, HS210, HS220 | HS110 | KL110, KL130, LB100, LB110, LB120, LB130
 | --- | :---: | :---: | :---: |
+| Device Type | Smart Plug | Smart Plug with Energy Monitoring | Smart Bulb |
 | Turn On/Off | x | x | x |
 | Get overview each device that are active<br/> in the home screen | x | x | x |
 | Energy consumption Chart <br/> Daily & monthly |  | x | x |
