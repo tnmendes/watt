@@ -38,6 +38,8 @@ With this page of GitHub, I hope to develop a small community to report problems
 | Night Mode (turn off the LEDs)| x | x |   |
 | Erase Runtime statistics | x | x | x | x |
 | Erase Consumption statistics |   | x | x |
+| Siri and Apple Shortcuts | x | x | x |
+
 
 
 <br/><br/>
