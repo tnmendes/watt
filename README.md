@@ -80,7 +80,8 @@ Here you can find the video (old):
 - [x] Create a concept "Room/Spaces" which will aggregate multiple devices.
 - [x] Find a way to give commands to Siri to turn on/off device (maybe using Siri shortcut)
 - [ ] Send a weekly email with consumption reports and charts.
-- [ ] Add support to TP-Link HS300
+- [ ] Add support to TP-Link HS300, KP303, KL50, KP400, HS107, KP100 and Tapo P100.
+- [ ] Add support to Smart Bulb KL50, KL50B, KL60, LB200, LB230(E26), LB230.
 - [ ] Export the data to Excel (CSV)
 - [ ] Show chart gathering all devices and the total cost.
 - [ ] Record the energy consumption hour by hour (background fetch)
