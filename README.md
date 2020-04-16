@@ -26,7 +26,7 @@ With this page of GitHub, I hope to develop a small community to report problems
 
 <br/><br/>
 
-| Featured | HS100, HS103, HS105, HS200, HS210, HS220 | HS110 | KL110, KL130, LB100, LB110, LB120, LB130
+| Featured | HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP303, KP400 | HS110, HS300 | KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 |
 | --- | :---: | :---: | :---: |
 | Device Type | Smart Plug | Smart Plug with Energy Monitoring | Smart Bulb |
 | Turn On/Off | x | x | x |
@@ -79,12 +79,13 @@ Here you can find the video (old):
 - [x] The ability to reset the stats for when a different appliance/device is plugged in and I want to start fresh.
 - [x] Create a concept "Room/Spaces" which will aggregate multiple devices.
 - [x] Find a way to give commands to Siri to turn on/off device (maybe using Siri shortcut)
+- [x] Add support to TP-Link HS300, KP303, KL50, KP400, HS107, KP100.
+- [x] Add support to Smart Bulb KL50, KL50B, KL60, LB200, LB230(E26), LB230.
 - [ ] Send a weekly email with consumption reports and charts.
-- [ ] Add support to TP-Link HS300, KP303, KL50, KP400, HS107, KP100 and Tapo P100.
-- [ ] Add support to Smart Bulb KL50, KL50B, KL60, LB200, LB230(E26), LB230.
+- [ ] Add support to Tapo P100.
 - [ ] Export the data to Excel (CSV)
 - [ ] Show chart gathering all devices and the total cost.
-- [ ] Record the energy consumption hour by hour (background fetch)
+- [ ] Record the energy consumption hour by hour
 - [ ] Show energy consumption by day, bill.
 - [ ] The option to define peak and off-peak times and electricity prices.
 - [ ] Force reboot, turn Off device then On after 30 seconds turn on again (Helpful for devices like wifi routers connected to the smart plug)
