@@ -13,7 +13,15 @@ Watt is an iOS mobile app developed for the TP-Link's Smart Plugs and Smart Lamp
 
 With this page of GitHub, I hope to develop a small community to report problems with the application and think of solutions.
 
+<br>
 
+Download the Watt app: <br>
+[![Apple Store](https://watt-app.com/images/downloads/apple.png)](https://itunes.apple.com/us/app/watt-hs110/id14650048301 "Apple Store link")
+
+<br>
+
+Oficial website:
+https://watt-app.com/
 
 
 # Features
