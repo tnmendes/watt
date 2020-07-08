@@ -16,7 +16,7 @@ With this page of GitHub, I hope to develop a small community to report problems
 <br>
 
 Download the Watt app: <br>
-[![Apple Store](https://watt-app.com/images/downloads/apple.png)](https://itunes.apple.com/us/app/watt-hs110/id14650048301 "Apple Store link")
+[![Apple Store](https://watt-app.com/images/downloads/apple.png)](https://apps.apple.com/us/app/watt-for-smart-devices/id1465004830 "Apple Store link")
 
 <br>
 
@@ -69,7 +69,7 @@ If you have any issue or suggestion, open a new ticket by pressing on the top of
 
 Link to the App:
 
-[https://itunes.apple.com/us/app/watt-hs110/id1465004830](https://itunes.apple.com/us/app/watt-hs110/id1465004830)
+[https://apps.apple.com/us/app/watt-for-smart-devices/id1465004830](https://apps.apple.com/us/app/watt-for-smart-devices/id1465004830)
 
 Here you can find the video (old):
 
