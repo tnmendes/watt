@@ -90,6 +90,7 @@ Here you can find the video (old):
 - [x] Add support to TP-Link HS300, KP303, KL50, KP200, KP400, HS107, KP100.
 - [x] Add support to Smart Bulb KL50, KL50B, KL60, LB200, LB230(E26), LB230.
 - [ ] Send a weekly email with consumption reports and charts.
+- [ ] Calculate the energy cost for smart switches (HS200, HS210 and HS220) based on Runtime + default/set value consumed energy.
 - [ ] Add support to Tapo P100.
 - [ ] Export the data to Excel (CSV)
 - [ ] Show chart gathering all devices and the total cost.
