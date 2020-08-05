@@ -43,11 +43,12 @@ https://watt-app.com/
 | Daily and monthly cost of the device |   | x | x |
 | Runtime Chart <br/> Daily & monthly | x | x | x |
 | Cumulative energy usage <br/>form all devices |   | x | x |
-| Night Mode (turn off the LEDs)| x | x |   |
+| Night Mode (turn off the LEDs)| x (*1) | x |   |
 | Erase Runtime statistics | x | x | x | x |
 | Erase Consumption statistics |   | x | x |
 | Siri and Apple Shortcuts | x | x | x |
 
+*1 Due to hardware limitations HS200 v1 the night mode does not work. It's working well for HS200 v2 and v3.
 
 
 <br/><br/>
