@@ -36,7 +36,7 @@ https://watt-app.com/
 
 | Featured | HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP200, KP303, KP400 | HS110, HS300 | KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 |
 | --- | :---: | :---: | :---: |
-| Device Type | Smart Plug | Smart Plug with Energy Monitoring | Smart Bulb |
+| Device Type | Smart Plug and Switch | Smart Plug with Energy Monitoring | Smart Bulb |
 | Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Get overview each device that are active<br/> in the home screen | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Energy consumption Chart <br/> Daily & monthly |  | :heavy_check_mark: | :heavy_check_mark: |
@@ -47,7 +47,10 @@ https://watt-app.com/
 | Erase Runtime statistics | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Erase Consumption statistics |   | :heavy_check_mark: | :heavy_check_mark: |
 | Siri and Apple Shortcuts | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-
+| Set Brightness | Just HS220	 |  | :heavy_check_mark: |
+| Set Color Temperature	 |  |  | Just KL120, KL130, LB120, LB130, LB200, LB230 |
+| Set Light Color	 |  |  | Just KL130, LB130 and LB230 |
+	
 *1 Due to hardware limitations HS200 v1 the night mode does not work. It's working well for HS200 v2 and v3.
 
 
