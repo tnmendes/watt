@@ -37,7 +37,7 @@ https://watt-app.com/
 | Featured | HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP200, KP303, KP400 | HS110, HS300 | KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 |
 | --- | :---: | :---: | :---: |
 | Device Type | Smart Plug | Smart Plug with Energy Monitoring | Smart Bulb |
-| Turn On/Off | x | x | x |
+| Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Get overview each device that are active<br/> in the home screen | x | x | x |
 | Energy consumption Chart <br/> Daily & monthly |  | x | x |
 | Daily and monthly cost of the device |   | x | x |
