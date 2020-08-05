@@ -38,15 +38,15 @@ https://watt-app.com/
 | --- | :---: | :---: | :---: |
 | Device Type | Smart Plug | Smart Plug with Energy Monitoring | Smart Bulb |
 | Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Get overview each device that are active<br/> in the home screen | x | x | x |
-| Energy consumption Chart <br/> Daily & monthly |  | x | x |
-| Daily and monthly cost of the device |   | x | x |
-| Runtime Chart <br/> Daily & monthly | x | x | x |
-| Cumulative energy usage <br/>form all devices |   | x | x |
-| Night Mode (turn off the LEDs)| x (*1) | x |   |
-| Erase Runtime statistics | x | x | x | x |
-| Erase Consumption statistics |   | x | x |
-| Siri and Apple Shortcuts | x | x | x |
+| Get overview each device that are active<br/> in the home screen | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Energy consumption Chart <br/> Daily & monthly |  | :heavy_check_mark: | :heavy_check_mark: |
+| Daily and monthly cost of the device |   | :heavy_check_mark: | :heavy_check_mark: |
+| Runtime Chart <br/> Daily & monthly | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Cumulative energy usage <br/>form all devices |   | :heavy_check_mark: | :heavy_check_mark: |
+| Night Mode (turn off the LEDs)| :heavy_check_mark: *1 | :heavy_check_mark: |   |
+| Erase Runtime statistics | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Erase Consumption statistics |   | :heavy_check_mark: | :heavy_check_mark: |
+| Siri and Apple Shortcuts | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 *1 Due to hardware limitations HS200 v1 the night mode does not work. It's working well for HS200 v2 and v3.
 
