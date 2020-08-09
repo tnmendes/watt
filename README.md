@@ -93,9 +93,9 @@ Here you can find the video (old):
 - [x] Find a way to give commands to Siri to turn on/off device (maybe using Siri shortcut)
 - [x] Add support to TP-Link HS300, KP303, KL50, KP200, KP400, HS107, KP100.
 - [x] Add support to Smart Bulb KL50, KL50B, KL60, LB200, LB230(E26), LB230.
+- [x] Implement Haptic Touch.
 - [ ] Send a weekly email with consumption reports and charts.
 - [ ] Calculate the energy cost for smart switches (HS200, HS210 and HS220) based on Runtime + default/set value consumed energy.
-- [ ] Add support to Tapo P100.
 - [ ] Export the data to Excel (CSV)
 - [ ] Show chart gathering all devices and the total cost.
 - [ ] Record the energy consumption hour by hour
@@ -105,7 +105,7 @@ Here you can find the video (old):
 - [ ] Make smart action (like if consumption is lower then specific value turn off(stand-by), or using GPS and when arriving home turn on the light, even use the weather forecast to make action, define amount time before sunset/sunrise action)
 - [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
 - [ ] Set Goals to save energy
-- [ ] Implement Haptic Touch
 - [ ] Add Artificial Intelligence (IA) to detect and send you push notification when some consumption is not right like: leave the refrigerator door open, washer is done.
 - [ ] If you have multiple devices connected to single HS110 use artificial intelligence to detect which devices are turned on and off and how much each one of them is spending.
-- [ ] Make android version
+- [ ] Add support to Tapo P100 (encryption protocol is is different and I can't get it to work).
+- [ ] Make web version
