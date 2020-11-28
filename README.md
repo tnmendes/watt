@@ -40,6 +40,11 @@ https://watt-app.com/
 | Support Shortcuts | :heavy_check_mark: | :heavy_check_mark: |
 | Siri (Add directly on the app) | :heavy_multiplication_x: | :heavy_check_mark: |
 | Night mode (Turn off led) | :heavy_multiplication_x: | :heavy_check_mark: |
+| Charts (Runtime and energy usage) | :heavy_multiplication_x: | :heavy_check_mark: |
+| Live consumption (from all devices) | :heavy_multiplication_x: | :heavy_check_mark: |
+| Erase Statistics | :heavy_multiplication_x: | :heavy_check_mark: |
+| Set price for kWh | :heavy_multiplication_x: | :heavy_check_mark: |
+| See voltage and Current | :heavy_multiplication_x: | :heavy_check_mark: |
 
 
 <br/><br/>
@@ -104,6 +109,7 @@ Here you can find the video (old):
 - [x] Add support to TP-Link HS300, KP303, KL50, KP200, KP400, HS107, KP100.
 - [x] Add support to Smart Bulb KL50, KL50B, KL60, LB200, LB230(E26), LB230.
 - [x] Implement Haptic Touch.
+- [ ] Add support to all Tapo devices.
 - [ ] Send a weekly email with consumption reports and charts.
 - [ ] Calculate the energy cost for smart switches (HS200, HS210 and HS220) based on Runtime + default/set value consumed energy.
 - [ ] Export the data to Excel (CSV)
@@ -117,5 +123,4 @@ Here you can find the video (old):
 - [ ] Set Goals to save energy
 - [ ] Add Artificial Intelligence (IA) to detect and send you push notification when some consumption is not right like: leave the refrigerator door open, washer is done.
 - [ ] If you have multiple devices connected to single HS110 use artificial intelligence to detect which devices are turned on and off and how much each one of them is spending.
-- [ ] Add support to Tapo P100 (encryption protocol is is different and I can't get it to work).
 - [ ] Make web version
