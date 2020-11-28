@@ -37,7 +37,7 @@ https://watt-app.com/
 |          | Kasa Smart | Watt for Smart Devices |
 | --- | :---: | :---: |
 | Control Kasa Devices | :heavy_check_mark: | :heavy_check_mark: |
-| Support Shortcuts | :heavy_check_mark: | :heavy_check_mark: |
+| Support Apple Shortcuts | :heavy_check_mark: | :heavy_check_mark: |
 | Siri (Add directly on the app) | :heavy_multiplication_x: | :heavy_check_mark: |
 | Night mode (Turn off led) | :heavy_multiplication_x: | :heavy_check_mark: |
 | Charts (Runtime and energy usage) | :heavy_multiplication_x: | :heavy_check_mark: |
@@ -45,6 +45,8 @@ https://watt-app.com/
 | Erase Statistics | :heavy_multiplication_x: | :heavy_check_mark: |
 | Set price for kWh | :heavy_multiplication_x: | :heavy_check_mark: |
 | See voltage and Current | :heavy_multiplication_x: | :heavy_check_mark: |
+| Price | Free | Free |
+
 
 
 <br/><br/>
