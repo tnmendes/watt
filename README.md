@@ -34,6 +34,16 @@ https://watt-app.com/
 
 <br/><br/>
 
+|          | Kasa Smart | Watt for Smart Devices |
+| --- | :---: | :---: |
+| Control Kasa Devices | :heavy_check_mark: | :heavy_check_mark: |
+| Support Shortcuts | :heavy_check_mark: | :heavy_check_mark: |
+| Siri (Add directly on the app) | :heavy_multiplication_x: | :heavy_check_mark: |
+| Night mode (Turn off led) | :heavy_multiplication_x: | :heavy_check_mark: |
+
+
+<br/><br/>
+
 | Featured | HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400 | HS110, HS300 | KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 |
 | --- | :---: | :---: | :---: |
 | Device Type | Smart Plug and Switch | Smart Plug with Energy Monitoring | Smart Bulb |
