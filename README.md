@@ -127,3 +127,19 @@ Here you can find the video (old):
 - [ ] Add Artificial Intelligence (IA) to detect and send you push notification when some consumption is not right like: leave the refrigerator door open, washer is done.
 - [ ] If you have multiple devices connected to single HS110 use artificial intelligence to detect which devices are turned on and off and how much each one of them is spending.
 - [ ] Make web version
+
+
+
+
+# FAQ
+
+1 - What is "Night Mode" functionality?
+> On all TP-Link plugs and switches there is a light to inform you that the device is active. The problem is that when the device is placed in the room it is annoying to have that LED active. With this feature, you can turn off that LED.
+
+2 - How to activate the "Night Mode"?
+> To activate "Night Mode" you will have to follow these steps: Click on the button on the bottom right "▲". Click in one of the circles that will open a screen with information about your device. On that screen, you have a button on the top left for configuration, click on it. Now just go down and you'll find "Night Mode".
+
+3 - Do all devices support "Night Mode"?
+> Almost all Kasa Smart devices are supporting, except: "HS200 v1" and "HS220 v2" I believe that is because of hardware limitations.
+
+
