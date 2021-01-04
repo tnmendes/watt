@@ -1,5 +1,5 @@
 # Watt for Smart Devices
-Complementary app to the universe of Kasa Smart (TP-Link)
+Complementary app to the universe of Kasa Smart and Tapo (TP-Link)
 
 <br/><br/>
 <p align="center">
@@ -9,7 +9,7 @@ Complementary app to the universe of Kasa Smart (TP-Link)
 > :warning: **If you are using mobile browser**: Press the button "View all" to see all the page including the **Roadmap!**
 <br/>
 
-Watt is an iOS mobile app developed for the TP-Link's Smart Plugs and Smart Lamps, that allows you to set cost for each kilowatt(kW) and by doing this you have control of the cost in each device. Also, add support for voice actions using the "Hey Siri".
+Watt is an iOS mobile app developed for the TP-Link's Smart Plugs and Smart Lamps, that allows you to set cost for each kilowatt(kWh) and by doing this you have control of the cost in each device. Also, add support for voice actions using the "Hey Siri".
 
 With this page of GitHub, I hope to develop a small community to report problems with the application and think of solutions.
 
@@ -52,8 +52,9 @@ https://watt-app.com/
 
 <br/><br/>
 
-| Featured | HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400 | HS110, HS300 | KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 |
-| --- | :---: | :---: | :---: |
+|           <td colspan=3> Kasa Smart  <td colspan=2> Tapo
+| Featured | HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400 | HS110, HS300 | KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 | P100, P105 | L510, L530 |
+| --- | :---: | :---: | :---: | :---: | :---: |
 | Device Type | Smart Plug and Switch | Smart Plug with Energy Monitoring | Smart Bulb |
 | Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Get overview each device that are active<br/> in the home screen | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -69,7 +70,7 @@ https://watt-app.com/
 | Set Color Temperature	 |  |  | Just KL120, KL130, LB120, LB130, LB200, LB230 |
 | Set Light Color	 |  |  | Just KL130, LB130 and LB230 |
 	
-*1 Due to hardware limitations HS200 v1 the night mode does not work. It's working well for HS200 v2 and v3.
+*1 Due to hardware limitations HS200 v1 and HS220 v2 the night mode does not work. It's working well for HS200 v2 and v3 and HS220 v1 and v3.
 
 
 <br/><br/>
@@ -112,7 +113,7 @@ Here you can find the video (old):
 - [x] Add support to TP-Link HS300, KP303, KL50, KP200, KP400, HS107, KP100.
 - [x] Add support to Smart Bulb KL50, KL50B, KL60, LB200, LB230(E26), LB230.
 - [x] Implement Haptic Touch.
-- [ ] Add support to all Tapo devices.
+- [x] Add support to all Tapo devices.
 - [ ] Send a weekly email with consumption reports and charts.
 - [ ] Calculate the energy cost for smart switches (HS200, HS210 and HS220) based on Runtime + default/set value consumed energy.
 - [ ] Export the data to Excel (CSV)
