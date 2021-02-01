@@ -115,8 +115,8 @@ Here you can find the video (old):
 - [x] Add support to Smart Bulb KL50, KL50B, KL60, LB200, LB230(E26), LB230.
 - [x] Implement Haptic Touch.
 - [x] Add support to all Tapo devices.
+- [x] Calculate the energy cost for smart switches (HS200, HS210 and HS220) based on Runtime + default/set value consumed energy.
 - [ ] Send a weekly email with consumption reports and charts.
-- [ ] Calculate the energy cost for smart switches (HS200, HS210 and HS220) based on Runtime + default/set value consumed energy.
 - [ ] Export the data to Excel (CSV)
 - [ ] Show chart gathering all devices and the total cost.
 - [ ] Record the energy consumption hour by hour
@@ -126,6 +126,7 @@ Here you can find the video (old):
 - [ ] Make smart action (like if consumption is lower then specific value turn off(stand-by), or using GPS and when arriving home turn on the light, even use the weather forecast to make action, define amount time before sunset/sunrise action)
 - [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
 - [ ] Set Goals to save energy
+- [ ] Add new voice command to change bulb temperature color
 - [ ] Add Artificial Intelligence (IA) to detect and send you push notification when some consumption is not right like: leave the refrigerator door open, washer is done.
 - [ ] If you have multiple devices connected to single HS110 use artificial intelligence to detect which devices are turned on and off and how much each one of them is spending.
 - [ ] Make web version
