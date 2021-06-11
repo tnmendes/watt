@@ -146,4 +146,7 @@ Here you can find the video (old):
 3 - Do all devices support "Night Mode"?
 > Almost all Kasa Smart devices are supporting, except: "HS200 v1" and "HS220 v2" I believe that is because of hardware limitations.
 
+	
+4 - Where is the Android App?
+> This app does not exist on Android and there are no plans for development. I'm just iOS Developer and I don't have knowledge of Android. 
 
