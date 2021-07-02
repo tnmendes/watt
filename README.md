@@ -54,7 +54,7 @@ https://watt-app.com/
 <br/><br/>
 
 |           <td colspan=3> Kasa Smart  <td colspan=2> Tapo
-| Featured | Kasa <br/>HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400 | Kasa <br/>HS110, HS300 | Kasa <br/>KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 | Tapo <br/>P100, P105 | Tapo <br/>L510, L530 |
+| Featured | Kasa <br/>HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400 | Kasa <br/>HS110, HS300, KP115 | Kasa <br/>KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 | Tapo <br/>P100, P105 | Tapo <br/>L510, L530 |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | Device Type | Smart Plug and Switch | Smart Plug with Energy Monitoring | Smart Bulb | Smart Plug | Smart Bulb | 
 | Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
