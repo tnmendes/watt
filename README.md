@@ -62,7 +62,7 @@ https://watt-app.com/
 | Energy consumption Chart <br/> Daily & monthly |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 | Daily and monthly cost of the device |   | :heavy_check_mark: | :heavy_check_mark: |   | :heavy_check_mark: | :heavy_check_mark: |
 | Runtime Chart <br/> Daily & monthly | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| Cumulative energy usage <br/>form all devices |   | :heavy_check_mark: | :heavy_check_mark: |      | :heavy_check_mark: | :heavy_check_mark: |
+| Cumulative power usage <br/>form all devices |   | :heavy_check_mark: | :heavy_check_mark: |      | :heavy_check_mark: | :heavy_check_mark: |
 | Night Mode (turn off the LEDs)| :heavy_check_mark: *1 | :heavy_check_mark: |      | :heavy_check_mark: |       | :heavy_check_mark: |
 | Erase Runtime statistics | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | Erase Consumption statistics |   | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
