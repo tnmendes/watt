@@ -54,24 +54,24 @@ https://watt-app.com/
 <br/><br/>
 
 |           <td colspan=3> Kasa Smart  <td colspan=2> Tapo
-| Featured | Kasa <br/>HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400, EP10 | Kasa <br/>HS110, HS300, KP115 | Kasa <br/>KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 | Tapo <br/>P100, P105 | Tapo <br/>L510, L530 |
-| --- | :---: | :---: | :---: | :---: | :---: |
-| Device Type | Smart Plug and Switch | Smart Plug with Energy Monitoring | Smart Bulb | Smart Plug | Smart Bulb | 
-| Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Get overview each device that are active<br/> in the home screen | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Energy consumption Chart <br/> Daily & monthly |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| Daily and monthly cost of the device |   | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: |
-| Runtime Chart <br/> Daily & monthly | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| Cumulative energy usage <br/>form all devices |   | :heavy_check_mark: | :heavy_check_mark: |      | :heavy_check_mark: |
-| Night Mode (turn off the LEDs)| :heavy_check_mark: *1 | :heavy_check_mark: |      | :heavy_check_mark: |       |
-| Erase Runtime statistics | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| Erase Consumption statistics |   | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| Siri and Apple Shortcuts | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Featured | Kasa <br/>HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400, EP10 | Kasa <br/>HS110, HS300, KP115 | Kasa <br/>KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 | Tapo <br/>P100, P105 | Tapo <br/>L510, L530 | Tapo <br/>P110 |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Device Type | Smart Plug and Switch | Smart Plug with Energy Monitoring | Smart Bulb | Smart Plug | Smart Bulb | Smart Plug with Energy Monitoring |
+| Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Get overview each device that are active<br/> in the home screen | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Energy consumption Chart <br/> Daily & monthly |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
+| Daily and monthly cost of the device |   | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: | | | :heavy_check_mark: |
+| Runtime Chart <br/> Daily & monthly | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| Cumulative energy usage <br/>form all devices |   | :heavy_check_mark: | :heavy_check_mark: |      | :heavy_check_mark: | | | :heavy_check_mark: |
+| Night Mode (turn off the LEDs)| :heavy_check_mark: *1 | :heavy_check_mark: |      | :heavy_check_mark: |       | :heavy_check_mark: |
+| Erase Runtime statistics | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| Erase Consumption statistics |   | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| Siri and Apple Shortcuts | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Set Brightness | Just HS220	 |  | :heavy_check_mark: |  | :heavy_check_mark: |
 | Set Color Temperature	 |  |  | Just KL120, KL130, LB120, LB130, LB200, LB230 |    | Just L530 |
 | Set Light Color	 |  |  | Just KL130, LB130 and LB230 |    | Just L530  |
 	
-*1 Due to hardware limitations HS200 v1 and HS220 v2 the night mode does not work. It's working well for HS200 v2 and v3 and HS220 v1 and v3.
+*1 Due to hardware limitations HS200 v1, HS220 v2 and HS210 KIT(slave)  the night mode does not work. It's working well for HS200 v2 and v3 and HS220 v1 and v3, also the HS210(Master).
 
 
 <br/><br/>
