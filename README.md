@@ -60,9 +60,9 @@ https://watt-app.com/
 | Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Get overview each device that are active<br/> in the home screen | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Energy consumption Chart <br/> Daily & monthly |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
-| Daily and monthly cost of the device |   | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: | | | :heavy_check_mark: |
+| Daily and monthly cost of the device |   | :heavy_check_mark: | :heavy_check_mark: |   | :heavy_check_mark: | :heavy_check_mark: |
 | Runtime Chart <br/> Daily & monthly | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| Cumulative energy usage <br/>form all devices |   | :heavy_check_mark: | :heavy_check_mark: |      | :heavy_check_mark: | | | :heavy_check_mark: |
+| Cumulative energy usage <br/>form all devices |   | :heavy_check_mark: | :heavy_check_mark: |      | :heavy_check_mark: | :heavy_check_mark: |
 | Night Mode (turn off the LEDs)| :heavy_check_mark: *1 | :heavy_check_mark: |      | :heavy_check_mark: |       | :heavy_check_mark: |
 | Erase Runtime statistics | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | Erase Consumption statistics |   | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
