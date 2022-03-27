@@ -100,9 +100,9 @@ Here you can find the video (old):
 [https://youtu.be/zFgz4oVbX0c](https://youtu.be/zFgz4oVbX0c)
 
 
-# Roadmap
+# Roadmap App
 
-- [x] Show cumulative energy usage form all devices.
+- [x] Show cumulative energy usage from all devices.
 - [x] Show energy consumption by last 30 days, month.
 - [x] Show daily cost metrics
 - [x] Make it work with HS100
@@ -116,20 +116,26 @@ Here you can find the video (old):
 - [x] Implement Haptic Touch.
 - [x] Add support to all Tapo devices.
 - [x] Calculate the energy cost for smart switches (HS200, HS210 and HS220) based on Runtime + default/set value consumed energy.
+- [x] Show chart gathering all devices and the total cost.
+- [ ] Export the data to Excel (CSV)	
+- [ ] Force reboot, turn Off device then On after 30 seconds turn on again (Helpful for devices like wifi routers connected to the smart plug)
+- [ ] Set Goals to save energy
+- [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
+- [ ] Add new voice command to change bulb temperature color
+- [ ] Add Party Mode using the Smart Bulbs (change color and brightness)
+- [ ] Allow app to work in the background
+
+# Roadmap Server/Web
+(The server still hasn't started the implementation much because of my lack of time, and lack of knowledge of server side-development)
+
 - [ ] Send a weekly email with consumption reports and charts.
-- [ ] Export the data to Excel (CSV)
-- [ ] Show chart gathering all devices and the total cost.
 - [ ] Record the energy consumption hour by hour
 - [ ] Show energy consumption by day, bill.
 - [ ] The option to define peak and off-peak times and electricity prices.
-- [ ] Force reboot, turn Off device then On after 30 seconds turn on again (Helpful for devices like wifi routers connected to the smart plug)
 - [ ] Make smart action (like if consumption is lower then specific value turn off(stand-by), or using GPS and when arriving home turn on the light, even use the weather forecast to make action, define amount time before sunset/sunrise action)
-- [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
-- [ ] Set Goals to save energy
-- [ ] Add new voice command to change bulb temperature color
-- [ ] Add Party Mode using the Smart Bulbs (change color and brigtness)
 - [ ] Add Artificial Intelligence (IA) to detect and send you push notification when some consumption is not right like: leave the refrigerator door open, washer is done.
 - [ ] If you have multiple devices connected to single HS110 use artificial intelligence to detect which devices are turned on and off and how much each one of them is spending.
+- [ ] Monitor the voltage and if it is out of normal values send a warning or/and turn off the device
 - [ ] Make web version
 
 
@@ -144,9 +150,8 @@ Here you can find the video (old):
 > To activate "Night Mode" you will have to follow these steps: Click on the button on the bottom right "▲". Click in one of the circles that will open a screen with information about your device. On that screen, you have a button on the top left for configuration, click on it. Now just go down and you'll find "Night Mode".
 
 3 - Do all devices support "Night Mode"?
-> Almost all Kasa Smart devices are supporting, except: "HS200 v1" and "HS220 v2" I believe that is because of hardware limitations.
+> Almost all Kasa Smart devices are supporting, except: "HS200 v1", "HS220 v2" and the HS210 KIT(just the slave) I believe that is because of hardware limitations.
 
-	
 4 - Where is the Android App?
 > This app does not exist on Android and there are no plans for development. I'm just iOS Developer and I don't have knowledge of Android. 
 
