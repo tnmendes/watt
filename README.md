@@ -54,7 +54,7 @@ https://watt-app.com/
 <br/><br/>
 
 |           <td colspan=3> Kasa Smart  <td colspan=2> Tapo
-| Featured | Kasa <br/>HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400, KS230, KS220M, EP10, EP40 | Kasa <br/>HS110, HS300, KP115, KP125 | Kasa <br/>KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 | Tapo <br/>P100, P105 | Tapo <br/>L510, L530 | Tapo <br/>P110 |
+| Featured | Kasa <br/>HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400, KS220M, KS230, EP10, EP40 | Kasa <br/>HS110, HS300, KP115, KP125 | Kasa <br/>KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 | Tapo <br/>P100, P105 | Tapo <br/>L510, L530 | Tapo <br/>P110 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | Device Type | Smart Plug and Switch | Smart Plug with Energy Monitoring | Smart Bulb | Smart Plug | Smart Bulb | Smart Plug with Energy Monitoring |
 | Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -67,12 +67,13 @@ https://watt-app.com/
 | Erase Runtime statistics | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | Erase Consumption statistics |   | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | Siri and Apple Shortcuts | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Set Brightness | Just HS220	 |  | :heavy_check_mark: |  | :heavy_check_mark: |
+| Set Brightness | Just HS220, KS220M	 |  | :heavy_check_mark: |  | :heavy_check_mark: |
 | Set Color Temperature	 |  |  | Just KL120, KL130, LB120, LB130, LB200, LB230 |    | Just L530 |
 | Set Light Color	 |  |  | Just KL130, LB130 and LB230 |    | Just L530  |
 	
-*1 Due to hardware limitations HS200 v1, HS220 v2 and HS210 KIT(slave)  the night mode does not work. It's working well for HS200 v2 and v3 and HS220 v1 and v3, also the HS210(Master).
 
+*1 Due to hardware or firmware the HS200 v1 and HS220 v2 the night mode does not work. It's working well for HS200 v2 and v3 and HS220 v1 and v3 and all the other devices.
+If you are using the HS210 KIT and you can only activate Night Mode on one of the devices, check this solution from the user <a href="https://github.com/tnmendes/watt/issues/31#issuecomment-1050225800"> @elitepuckster: Solution for the HS210 KIT</a>
 
 <br/><br/>
 <p align="center">
