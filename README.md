@@ -156,3 +156,5 @@ Here you can find the video (old):
 4 - Where is the Android App?
 > This app does not exist on Android and there are no plans for development. I'm just iOS Developer and I don't have knowledge of Android. 
 
+5 - There's a huge spelling mistake!
+> I'm not native english speaker! While this may sound like a bad excuse, it's legit. I'm doing my best to write understandable english, but I sometimes fail to notice an error. So again, if you happen to find a grammar or spelling mistake, just drop me a note and I'll correct!
