@@ -54,7 +54,7 @@ https://watt-app.com/
 <br/><br/>
 
 |           <td colspan=3> Kasa Smart  <td colspan=2> Tapo
-| Featured | Kasa <br/>HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400, KS220M, KS230, EP10, EP40 | Kasa <br/>HS110, HS300, KP115, KP125 | Kasa <br/>KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 | Tapo <br/>P100, P105 | Tapo <br/>L510, L530 | Tapo <br/>P110 |
+| Featured | Kasa <br/>HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400, KP401, KP405, KS200M, KS220M, KS230, EP10, EP40, ES20M | Kasa <br/>HS110, HS300, KP115, KP125 | Kasa <br/>KL50, KL60, KL110, KL120, KL130, LB100, LB110, LB120, LB130, LB200, LB230 | Tapo <br/>P100, P105 | Tapo <br/>L510, L530 | Tapo <br/>P110 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | Device Type | Smart Plug and Switch | Smart Plug with Energy Monitoring | Smart Bulb | Smart Plug | Smart Bulb | Smart Plug with Energy Monitoring |
 | Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -118,13 +118,14 @@ Here you can find the video (old):
 - [x] Add support to all Tapo devices.
 - [x] Calculate the energy cost for smart switches (HS200, HS210 and HS220) based on Runtime + default/set value consumed energy.
 - [x] Show chart gathering all devices and the total cost.
+- [x] Support for the MacOS version (MacOS 10.15 or higher version)
+- [x] Customization for device icons
+- [x] Safe toggle, option to protect your devices from accidentally turning on/off
 - [ ] Export the data to Excel (CSV)	
 - [ ] Force reboot, turn Off device then On after 30 seconds turn on again (Helpful for devices like wifi routers connected to the smart plug)
 - [ ] Set Goals to save energy
 - [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
-- [ ] Add new voice command to change bulb temperature color
 - [ ] Add Party Mode using the Smart Bulbs (change color and brightness)
-- [ ] Allow app to work in the background
 
 # Roadmap Server/Web
 (The server still hasn't started the implementation much because of my lack of time, and lack of knowledge of server side-development)
