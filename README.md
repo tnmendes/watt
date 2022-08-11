@@ -126,6 +126,8 @@ Here you can find the video (old):
 - [ ] Set Goals to save energy
 - [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
 - [ ] Add Party Mode using the Smart Bulbs (change color and brightness)
+- [ ] Add new command to Siri so we can select Color Temperature from Bulb
+- [ ] When you are on a Bulb information screen, add shortcuts for common colors and temperatures.
 
 # Roadmap Server/Web
 (The server still hasn't started the implementation much because of my lack of time, and lack of knowledge of server side-development)
