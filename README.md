@@ -128,6 +128,7 @@ Here you can find the video (old):
 - [ ] Add Party Mode using the Smart Bulbs (change color and brightness)
 - [ ] Add new command to Siri so we can select Color Temperature from Bulb
 - [ ] When you are on a Bulb information screen, add shortcuts for common colors and temperatures.
+- [ ] Support for Dark Mode and support for Color Blindness
 
 # Roadmap Server/Web
 (The server still hasn't started the implementation much because of my lack of time, and lack of knowledge of server side-development)
