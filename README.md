@@ -16,7 +16,7 @@ With this page of GitHub, I hope to develop a small community to report problems
 <br>
 
 Download the Watt app: <br>
-[![Apple Store](https://watt-app.com/images/downloads/apple.png)](https://apps.apple.com/us/app/watt-for-smart-devices/id1465004830 "Apple Store link")
+[![Apple Store](https://www.watt-app.com/images/downloads/apple.png)](https://apps.apple.com/us/app/watt-for-smart-devices/id1465004830 "Apple Store link")
 
 <br>
 
