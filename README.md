@@ -21,7 +21,7 @@ Download the Watt app: <br>
 <br>
 
 Oficial website:
-https://watt-app.com/
+http://www.watt-app.com/
 
 
 # Features
