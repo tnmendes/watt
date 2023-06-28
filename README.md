@@ -121,7 +121,7 @@ Here you can find the video (old):
 - [x] Support for the MacOS version (MacOS 10.15 or higher version)
 - [x] Customization for device icons
 - [x] Safe toggle, option to protect your devices from accidentally turning on/off
-- [ ] Export the data to Excel (CSV)	
+- [x] Export the data to Excel (CSV)	
 - [ ] Force reboot, turn Off device then On after 30 seconds turn on again (Helpful for devices like wifi routers connected to the smart plug)
 - [ ] Set Goals to save energy
 - [ ] Make a personalized schedule that  will tell you how much money you will save by turning off your device x hours
