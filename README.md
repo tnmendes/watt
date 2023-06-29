@@ -54,7 +54,7 @@ http://www.watt-app.com/
 <br/><br/>
 
 |           <td colspan=3> Kasa Smart  <td colspan=2> Tapo
-| Featured | Kasa <br/>HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400, KP401, KP405, KS200M, KS220M, KS230, EP10, EP40, ES20M | Kasa <br/>HS110, HS300, KP115, KP125, EP25 | Kasa <br/>KL50, KL60, KL110, KL120, KL130, KL135, KL400, KL420, KL430, LB100, LB110, LB120, LB130, LB200, LB230 | Tapo <br/>P100, P105 | Tapo <br/>L510, L530, L900, L920, L930 | Tapo <br/>P110, P115 |
+| Featured | Kasa <br/>HS100, HS103, HS105, HS107, HS200, HS210, HS220, KP105, KP200, KP303, KP400, KP401, KP405, KS200M, KS220M, KS230, EP10, EP40, ES20M | Kasa <br/>HS110, HS300, KP115, KP125, EP25 | Kasa <br/>KL50, KL60, KL110, KL120, KL130, KL135, KL400, KL420, KL430, LB100, LB110, LB120, LB130, LB200, LB230 | Tapo <br/>P100, P105, P125 | Tapo <br/>L510, L530, L610, L630, L900, L920, L930, TL31, TL33 | Tapo <br/>P110, P115 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | Device Type | Smart Plug and Switch | Smart Plug with Energy Monitoring | Smart Bulb and Strip | Smart Plug | Smart Bulb and Strip | Smart Plug with Energy Monitoring |
 | Turn On/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -68,8 +68,8 @@ http://www.watt-app.com/
 | Erase Consumption statistics |   | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | Siri and Apple Shortcuts | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Set Brightness | Just HS220, KS220M	 |  | :heavy_check_mark: |  | :heavy_check_mark: |
-| Set Color Temperature	 |  |  | Just KL120, KL130, LB120, LB130, LB200, LB230, KL430 |    | Just L530, L930 |
-| Set Light Color	 |  |  | Just KL130, LB130, LB230, KL400, KL420, KL430 |    | Just L530, L900, L920, L930  |
+| Set Color Temperature	 |  |  | Just KL120, KL130, LB120, LB130, LB200, LB230, KL430 |    | Just L530, L630, L930, TL33 |
+| Set Light Color	 |  |  | Just KL130, LB130, LB230, KL400, KL420, KL430 |    | Just L530, L630, L900, L920, L930, TL33  |
 	
 
 *1 Due to hardware or firmware the HS200 v1 and HS220 v2 the night mode does not work. It's working well for HS200 v2 and v3 and HS220 v1 and v3 and all the other devices.
